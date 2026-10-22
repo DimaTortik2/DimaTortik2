@@ -3,7 +3,7 @@
 
 ##### Шо сказать? Стек:
 
-![Vaul|72](https://img.shields.io/badge/Vaul-000000?style=for-the-badge) ![RHF|74](https://img.shields.io/badge/RHF-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Vaul|72](https://img.shields.io/badge/Vaul-000000?style=for-the-badge)
 
 ![Конвеер технологий](https://icon-marquee.giann.dev/v1/marquee?i=react,ts,vite,tailwind,redux,git,figma)
 
