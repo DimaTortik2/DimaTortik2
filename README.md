@@ -1,16 +1,15 @@
-## Hi there 👋
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&width=435&lines=Рад_тебя_видеть;Приветули;Шо_высматриваешь?)
+### Специализируюсь на создании красивых интерфейсов с закосом под натив :]
 
-<!--
-**DimaTortik2/DimaTortik2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Шо сказать? Стек:
 
-Here are some ideas to get you started:
+![Vaul|72](https://img.shields.io/badge/Vaul-000000?style=for-the-badge) ![RHF|74](https://img.shields.io/badge/RHF-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Конвеер технологий](https://icon-marquee.giann.dev/v1/marquee?i=react,ts,vite,tailwind,redux,git,figma)
+
+![Jotai|59](https://img.shields.io/badge/Jotai-000000?style=for-the-badge) ![TanStack Query|195](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white) ![TanStack Router|213](https://img.shields.io/badge/TanStack_Router-FF4154?style=for-the-badge)
+
+
+### Телега
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/paranormaley)
