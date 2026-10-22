@@ -3,8 +3,6 @@
 
 ##### Шо сказать? Стек:
 
-![Vaul](https://img.shields.io/badge/Vaul-000000?style=for-the-badge)
-
 ![Конвеер технологий](https://icon-marquee.giann.dev/v1/marquee?i=react,ts,vite,tailwind,redux,git,figma)
 
 ![Jotai](https://img.shields.io/badge/Jotai-000000?style=for-the-badge) ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white) ![TanStack Router](https://img.shields.io/badge/TanStack_Router-FF4154?style=for-the-badge)
